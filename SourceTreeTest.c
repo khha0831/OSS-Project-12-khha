@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-  printf("First");
-  printf("Second");
-  
-  return 0;
+  printf("First OSS Code");
+  printf("Second OSS Code");
 
+  return 0;
 }
